@@ -15,7 +15,7 @@
 
         <h2>👀 I’m interested in Programming, Design, and videogames.</h2>
 
-        <h2>🌱 I’m currently learning C#, Data Visualization, and FrontEnd.</h2>
+        <h2>🌱 I’m currently learning C#, Unity, Data Visualization, and FrontEnd.</h2>
 
         <h2>💞️ I’m looking to collaborate on anything that I like, just ask me.</h2>
 

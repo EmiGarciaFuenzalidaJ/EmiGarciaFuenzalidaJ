@@ -1,5 +1,7 @@
 # 💫 About Me:
+<p style="font-family: Arial, sans-serif; font-size: 16px; color: #333;">
 I am a University Technician in Video Game Programming 🎮, specialized in developing video games for PC 💻, mobile 📱, and consoles 🎮. I have experience in animations 🎨, design documentation 📑, programming 💻, UX/UI design 🖥️, and 3D modeling 🏗️. I work effectively in multidisciplinary teams of programming and art 🤝. My comprehensive knowledge allows me to collaborate with professionals in computer science and programming systems 👨‍💻👩‍💻.<br><br>I’m currently working as a VR/AR developer 🕶️ and as a UX/UI designer 🎨.
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://ar.linkedin.com/in/emiliano-jesús-garcia-fuenzalida-5a1157270) 
@@ -7,7 +9,6 @@ I am a University Technician in Video Game Programming 🎮, specialized in deve
 [![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?logo=artstation&logoColor=white)](https://www.artstation.com/emigarciafuenzalida)
 
 # 💻 Tech Stack:
-
 ## 💬 Languages:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 

@@ -32,5 +32,3 @@ I am a University Technician in Video Game Programming 🎮, specialized in deve
 [![](https://visitcount.itsvg.in/api?id=EmiGarciaFuenzalidaJ&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

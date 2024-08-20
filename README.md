@@ -22,7 +22,9 @@ I am a University Technician in Video Game Programming 🎮, specialized in deve
 
 ## 🔧 Others:
 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira) ![Oculus](https://img.shields.io/badge/Oculus-%23100000.svg?style=for-the-badge&logo=oculus&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Trello-%20skyblue?style=plastic&logo=trello&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Jira-blue?style=plastic&logo=jira&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Oculus-black?style=plastic&logo=oculus&logoSize=auto)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EmiGarciaFuenzalidaJ&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>

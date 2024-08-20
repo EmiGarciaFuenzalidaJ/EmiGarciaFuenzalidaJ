@@ -2,10 +2,9 @@
 I am a University Technician in Video Game Programming 🎮, specialized in developing video games for PC 💻, mobile 📱, and consoles 🎮. I have experience in animations 🎨, design documentation 📑, programming 💻, UX/UI design 🖥️, and 3D modeling 🏗️. I work effectively in multidisciplinary teams of programming and art 🤝. My comprehensive knowledge allows me to collaborate with professionals in computer science and programming systems 👨‍💻👩‍💻.<br><br>I’m currently working as a VR/AR developer 🕶️ and as a UX/UI designer 🎨.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://ar.linkedin.com/in/emiliano-jesús-garcia-fuenzalida-5a1157270) 
-[![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?logo=gitlab&logoColor=white)](https://gitlab.com/emiInterBrain)
-[![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?logo=artstation&logoColor=white)](https://www.artstation.com/emigarciafuenzalida)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=plastic&logoSize=40)](https://linkedin.com/in/https://ar.linkedin.com/in/emiliano-jesús-garcia-fuenzalida-5a1157270)
+[![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?logo=gitlab&logoColor=white&style=plastic&logoSize=40)](https://gitlab.com/emiInterBrain)
+[![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?logo=artstation&logoColor=white&style=plastic&logoSize=40)](https://www.artstation.com/emigarciafuenzalida)
 # 💻 Tech Stack:
 
 ## 💬 Languages:

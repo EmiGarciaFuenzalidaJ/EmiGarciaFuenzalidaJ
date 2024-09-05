@@ -5,6 +5,7 @@ I am a University Technician in Video Game Programming 🎮, specialized in deve
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/emiliano-jesús-garcia-fuenzalida-5a1157270)
 [![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/emiInterBrain)
 [![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?logo=artstation&logoColor=white&style=for-the-badge)](https://www.artstation.com/emigarciafuenzalida)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-%23000000.svg?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com)
 # 💻 Tech Stack:
 
 ## 💬 Languages:

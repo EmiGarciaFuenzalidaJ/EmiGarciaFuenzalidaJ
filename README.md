@@ -2,7 +2,6 @@
 I am a University Technician in Video Game Programming 🎮, specialized in developing video games for PC 💻, mobile 📱, and consoles 🎮. I have experience in animations 🎨, design documentation 📑, programming 💻, UX/UI design 🖥️, and 3D modeling 🏗️. I work effectively in multidisciplinary teams of programming and art 🤝. My comprehensive knowledge allows me to collaborate with professionals in computer science and programming systems 👨‍💻👩‍💻.<br><br>I’m currently working as a VR/AR developer 🕶️ and as a UX/UI designer 🎨.
 
 ## 🌐 Socials:
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-%23000000.svg?style=for-the-badge&logo=link&logoColor=white)](https://emigarciafuenzalidadesign.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/emiliano-jesús-garcia-fuenzalida-5a1157270)
 [![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/emiInterBrain)
 [![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?logo=artstation&logoColor=white&style=for-the-badge)](https://www.artstation.com/emigarciafuenzalida)

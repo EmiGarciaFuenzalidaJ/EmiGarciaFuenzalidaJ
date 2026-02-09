@@ -1,36 +1,85 @@
-# 💫 About Me:
-I am a University Technician in Video Game Programming 🎮, specialized in developing video games for PC 💻, mobile 📱, and consoles 🎮. I have experience in animations 🎨, design documentation 📑, programming 💻, UX/UI design 🖥️, and 3D modeling 🏗️. I work effectively in multidisciplinary teams of programming and art 🤝. My comprehensive knowledge allows me to collaborate with professionals in computer science and programming systems 👨‍💻👩‍💻.<br><br>I’m currently working as a VR/AR developer 🕶️ and as a UX/UI designer 🎨.
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/emiliano-jesús-garcia-fuenzalida-5a1157270)
-[![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/emiInterBrain)
-[![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?logo=artstation&logoColor=white&style=for-the-badge)](https://www.artstation.com/emigarciafuenzalida)
-[![PersonalWeb](https://img.shields.io/badge/PersonalWeb-%23000000.svg?style=for-the-badge&logo=cloudflare&logoColor=white)](https://emigarciafuenzalidadesign.pages.dev)
-# 💻 Tech Stack:
+<h1 align="center">💫 Emiliano Garcia Fuenzalida</h1>
 
-## 💬 Languages:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p align="center">
+  🎮 Video Game Programmer &nbsp;|&nbsp;
+  🕶️ VR / AR Developer &nbsp;|&nbsp;
+  🎨 UX / UI Designer
+</p>
 
-## ⚙️ Frameworks:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-%232E3A59.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-## 🗃️ Database:
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 🎨 Design:
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-## 🔧 Others:
-
-![Static Badge](https://img.shields.io/badge/Trello-%20skyblue?style=plastic&logo=trello&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Jira-blue?style=plastic&logo=jira&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Oculus-black?style=plastic&logo=oculus&logoSize=auto)
-
-# 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=EmiGarciaFuenzalidaJ&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=EmiGarciaFuenzalidaJ&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmiGarciaFuenzalidaJ&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF9C&center=true&vCenter=true&width=600&lines=Design+meets+Technology;UX+Driven+Development;Immersive+XR+Experiences;From+Concept+to+Production" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EmiGarciaFuenzalidaJ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/>
+</p>
+
+## 🚀 About Me
+
+I’m a **University Technician in Video Game Programming**, specialized in creating **interactive, immersive and user-centered experiences**.
+
+Currently working as a **UX/UI Designer** and **VR/AR Developer**, combining **design thinking**, **technical execution**, and **visual storytelling** to build high-impact digital products.
+
+I thrive in **multidisciplinary teams**, bridging the gap between **design, art and development**.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
+</p>
+
+## 🧠 Professional Focus
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
+- 🎨 UX/UI Design (Web, Mobile, XR)
+- 🕶️ VR / AR Development (Unity, Oculus)
+- 🎮 Game Development (PC, Mobile, Console)
+- 🧩 UX Research · Wireframing · Prototyping
+- 🤝 Agile / Scrum environments
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFjZnd3bGJqbnVjdzR3cHJjZW05NTRkN2R3MXN3Y3E3Z2V3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQ7LRaljvNfJRe/giphy.gif" width="420"/>
+</p>
+
+## 🌐 Social & Portfolio
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/emiliano-jesús-garcia-fuenzalida-5a1157270">
+    <img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://gitlab.com/emiInterBrain">
+    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  </a>
+  <a href="https://www.artstation.com/emigarciafuenzalida">
+    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white"/>
+  </a>
+  <a href="https://emigarciafuenzalidadesign.pages.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="420"/>
+</p>
+
+## 💻 Tech Stack
+
+### 💬 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jav

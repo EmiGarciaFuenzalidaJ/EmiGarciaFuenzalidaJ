@@ -13,7 +13,6 @@
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
 ## 💫 About Me
 
 I am a **University Technician in Video Game Programming**, specialized in developing video games for **PC 💻, mobile 📱, and consoles 🎮**.
@@ -21,65 +20,49 @@ I am a **University Technician in Video Game Programming**, specialized in devel
 I have experience in **animations 🎨, design documentation 📑, programming 💻, UX/UI design 🖥️, and 3D modeling 🏗️**.  
 I work effectively in **multidisciplinary teams** of programming and art 🤝, collaborating with professionals in computer science and software systems.
 
-I’m currently working as a **VR/AR Developer 🕶️** and **UX/UI Designer 🎨**, focusing on creating **clear, usable, and immersive digital experiences**.
+I’m currently working as a **VR/AR Developer 🕶️** and **UX/UI Designer 🎨**, focused on building **clear, usable, and immersive digital experiences**.
 
 ---
 
-<!-- ===================== MOTION (MEANINGFUL) ===================== -->
+<!-- ===================== MOTION WITH MEANING ===================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/5fHY45L9XLzcQ/giphy.gif" width="420" alt="Chrome Dino Endless Run"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="420" alt="Chrome Dino Endless Run"/>
 </p>
 
 <p align="center">
-  <i>Always moving forward — learning, iterating, and building.</i>
+  <i>Endless iteration. Continuous learning.</i>
 </p>
 
 ---
 
-<!-- ===================== SOCIALS ===================== -->
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/emiliano-jesús-garcia-fuenzalida-5a1157270)
-[![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/emiInterBrain)
-[![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?logo=artstation&logoColor=white&style=for-the-badge)](https://www.artstation.com/emigarciafuenzalida)
-[![Personal Web](https://img.shields.io/badge/PersonalWeb-%23000000.svg?style=for-the-badge&logo=cloudflare&logoColor=white)](https://emigarciafuenzalidadesign.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliano-jesús-garcia-fuenzalida-5a1157270)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/emiInterBrain)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/emigarciafuenzalida)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=cloudflare&logoColor=white)](https://emigarciafuenzalidadesign.pages.dev)
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
 ## 💻 Tech Stack
 
 ### 💬 Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,js)](https://skillicons.dev)
 
-### ⚙️ Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%232E3A59.svg?style=for-the-badge&logo=unity&logoColor=white)
+### ⚙️ Frameworks & Engines
+[![Frameworks](https://skillicons.dev/icons?i=unity,react,bootstrap,dotnet)](https://skillicons.dev)
 
 ### 🗃️ Database
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![Database](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-### 🎨 Design
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+### 🎨 Design & 3D
+[![Design](https://skillicons.dev/icons?i=figma,ps,ai,xd,ae,blender)](https://skillicons.dev)
 
-### 🔧 Others
-![Trello](https://img.shields.io/badge/Trello-%20skyblue?style=plastic&logo=trello)
-![Jira](https://img.shields.io/badge/Jira-blue?style=plastic&logo=jira)
-![Oculus](https://img.shields.io/badge/Oculus-black?style=plastic&logo=oculus)
+### 🔧 Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,trello,jira)](https://skillicons.dev)
 
 ---
 
-<!-- ===================== STATS ===================== -->
 ## 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EmiGarciaFuenzalidaJ&theme=chartreuse-dark&hide_border=false)<br/>
